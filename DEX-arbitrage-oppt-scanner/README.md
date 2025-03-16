@@ -9,6 +9,13 @@ Monitors token pairs across multiple DEXes for arbitrage opportunities. Built wi
 - Rate limiting
 - Event-driven updates
 
+## Setup
+```bash
+bun add -d typescript @types/node
+bun add ethers axios dotenv chalk
+bun tsc --init
+```
+
 ## Configuration
 Requires `.env` file with:
 - INFURA_PROJECT_ID
@@ -26,11 +33,11 @@ Requires `.env` file with:
 
 ## Usage
 ```bash
-bun add ethers axios dotenv chalk
-bun main.js
+bun run main.ts
 ```
 
 ## Dependencies
+- typescript
 - ethers
 - axios
 - dotenv
