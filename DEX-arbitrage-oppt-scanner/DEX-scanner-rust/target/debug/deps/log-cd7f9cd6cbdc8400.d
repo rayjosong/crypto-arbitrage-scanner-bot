@@ -1,0 +1,10 @@
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/liblog-cd7f9cd6cbdc8400.rmeta: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/macros.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/serde.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/__private_api.rs
+
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/liblog-cd7f9cd6cbdc8400.rlib: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/macros.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/serde.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/__private_api.rs
+
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/log-cd7f9cd6cbdc8400.d: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/macros.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/serde.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/__private_api.rs
+
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/lib.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/macros.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/serde.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/__private_api.rs:

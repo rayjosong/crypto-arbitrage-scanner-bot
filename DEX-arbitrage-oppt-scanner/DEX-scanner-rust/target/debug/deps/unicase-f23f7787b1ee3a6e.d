@@ -1,0 +1,10 @@
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/libunicase-f23f7787b1ee3a6e.rmeta: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/libunicase-f23f7787b1ee3a6e.rlib: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/unicase-f23f7787b1ee3a6e.d: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs:

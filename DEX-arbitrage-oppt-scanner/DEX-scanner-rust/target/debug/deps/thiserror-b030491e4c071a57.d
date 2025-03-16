@@ -1,0 +1,10 @@
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/libthiserror-b030491e4c071a57.rmeta: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/libthiserror-b030491e4c071a57.rlib: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/raymondong/code/rayjosong/projects/web3/crypto-arbitrage-scanner-bot/DEX-arbitrage-oppt-scanner/DEX-scanner-rust/target/debug/deps/thiserror-b030491e4c071a57.d: /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs:
+/Users/raymondong/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs:

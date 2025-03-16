@@ -1,11 +1,2 @@
-# Environment variables
-.env
-
-# Node modules
-node_modules/
-
-# Logs
-*.log
-
-# Bun
-.bun.lockb 
+# ... existing code ...
+/target/ 
