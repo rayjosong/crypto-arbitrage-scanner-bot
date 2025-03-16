@@ -1,1 +1,0 @@
-&mut impl futures::Future<Output = std::result::Result<EventStream<'_, FilterWatcher<'_, <Provider<Ws> as ethers::ethers_middleware::Middleware>::Provider, ethers::types::Log>, SwapEvent, ethers::ethers_contract::ContractError<Provider<Ws>>>, ethers::ethers_contract::ContractError<Provider<Ws>>>>
