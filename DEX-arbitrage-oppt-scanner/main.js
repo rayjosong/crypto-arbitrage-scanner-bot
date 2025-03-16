@@ -330,7 +330,7 @@ function formatArbitrageMessage(
     `*Buy:* ${lowestAsk.exchange} at $${lowestAsk.ask.toFixed(
       2
     )} (Fee: $${buyFee.toFixed(2)})\n` +
-    `*Sell:* ${highestBid.exchange} at $${highestBid.ask.toFixed(
+    `*Sell:* ${highestBid.exchange} at $${highestBid.bid.toFixed(
       2
     )} (Fee: $${sellFee.toFixed(2)})\n` +
     `*Total Fees:* $${(buyFee + sellFee).toFixed(2)}\n` +
@@ -354,11 +354,10 @@ function formatNonProfitableMessage(
   const title = isSwap ? `📊 *SWAP DETECTED*` : `📊 *MARKET UPDATE*`;
   return (
     `${title} - ${getFormattedTimestamp()}\n` +
-    `*Pair:* ${symbol}\n` +
-    `*Best Buy:* ${lowestAsk.exchange} at $${lowestAsk.ask.toFixed(
-      2
-    )} (Fee: $${buyFee.toFixed(2)})\n` +
-    `*Best Sell:* ${highestBid.exchange} at $${highestBid.ask.toFixed(
+    `*Pair:* ${symbol}\n``*Best Buy:* ${
+      lowestAsk.exchange
+    } at $${lowestAsk.ask.toFixed(2)} (Fee: $${buyFee.toFixed(2)})\n` +
+    `*Best Sell:* ${highestBid.exchange} at $${highestBid.bid.toFixed(
       2
     )} (Fee: $${sellFee.toFixed(2)})\n` +
     `*Total Fees:* $${(buyFee + sellFee).toFixed(2)}\n` +
