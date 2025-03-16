@@ -12,3 +12,12 @@ DEX-scanner-rust/target/
 
 # Bun
 .bun.lockb 
+
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+venv/ 
