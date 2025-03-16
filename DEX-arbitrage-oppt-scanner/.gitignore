@@ -1,2 +1,14 @@
-# ... existing code ...
-/target/ 
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Rust
+DEX-scanner-rust/target/
+
+# Logs
+*.log
+
+# Bun
+.bun.lockb 
